@@ -12,7 +12,7 @@
 - Node.js and npm package manager
 
 ## For Live Demo :  
-[Click here](spacextraveler-hub.netlify.app)
+[Click here](https://space-travellers-hub-rwk.netlify.app/)
 
 
 ## Getting Started
